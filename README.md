@@ -1,2 +1,2 @@
 # sellixbot
-sellix pot in py for discord
+sellix bot in py for discord
